@@ -1,0 +1,6 @@
+c:\users\sanjaykha\documents\visual studio 2013\Projects\DevOps\MyWebApp\bin\MyWebApp.dll.config
+c:\users\sanjaykha\documents\visual studio 2013\Projects\DevOps\MyWebApp\bin\MyWebApp.dll
+c:\users\sanjaykha\documents\visual studio 2013\Projects\DevOps\MyWebApp\bin\MyWebApp.pdb
+c:\users\sanjaykha\documents\visual studio 2013\Projects\DevOps\MyWebApp\obj\Debug\MyWebApp.csprojResolveAssemblyReference.cache
+c:\users\sanjaykha\documents\visual studio 2013\Projects\DevOps\MyWebApp\obj\Debug\MyWebApp.dll
+c:\users\sanjaykha\documents\visual studio 2013\Projects\DevOps\MyWebApp\obj\Debug\MyWebApp.pdb
